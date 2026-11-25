@@ -1,7 +1,7 @@
 title: My Jekyll Site
 description: A simple website built with Jekyll
-url: ""
-baseurl: ""
+url: "https://duncang.github.io"
+baseurl: "/gweb"
 
 markdown: kramdown
 permalink: pretty

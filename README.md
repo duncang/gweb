@@ -2,6 +2,10 @@
 
 A minimal static website built with Jekyll.
 
+## Live site
+
+The site is deployed to [https://duncang.github.io/gweb/](https://duncang.github.io/gweb/).
+
 ## Requirements
 
 - Ruby 2.7 or later
